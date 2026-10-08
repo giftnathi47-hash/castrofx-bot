@@ -1,0 +1,12 @@
+{
+  "name": "CastroFx Bot",
+  "short_name": "CastroFx",
+  "description": "Mobile demo trading dashboard",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050b16",
+  "theme_color": "#050b16",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
